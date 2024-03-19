@@ -1,3 +1,3 @@
-### Nodejs-typescript-esbuild
+# Nodejs-typescript-esbuild
 
-Simple node application that uses Typescript and ESBuild to bundle
+Simple Nodejs and Express server that uses Typescript and ESBuild to bundle
