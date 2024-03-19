@@ -1,0 +1,1 @@
+console.log("Simple TypeScript Application! running on Node.js! and using ESbuild");
